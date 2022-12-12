@@ -3,7 +3,7 @@ package q1110;
 import java.util.Scanner;
 
 public class Main {
-	public void plusCicle(int n) {
+	public void plusCycle(int n) {
 		int count = 0;
 		int x = n;
 
@@ -22,7 +22,7 @@ public class Main {
 		int n = sc.nextInt();
 		sc.close();
 		Main m = new Main();
-		m.plusCicle(n);
+		m.plusCycle(n);
 
 	}
 
